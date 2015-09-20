@@ -1,4 +1,4 @@
-# Pachinko
+# pachinko
 
 Project created as part of tutorial in https://www.hackingwithswift.com. The main objectives are:
 
